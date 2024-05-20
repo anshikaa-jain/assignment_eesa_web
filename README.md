@@ -1,2 +1,2 @@
 # assignment_eesa_web
-created a website for eesa in assignment
+created a website for assignment of EESA web secretary
